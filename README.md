@@ -4,7 +4,7 @@
 Для запуска проекта необходимо установить:
 
 1.  Python3 ( version 3.8.0 < )
-2.  Oracde ODBC driver
+2.  Oracle ODBC driver
 3.  Testcomplete последней версии
 
 Далее в Testcomplete настроить план, включить тестовые кейсы в Execution Runner
